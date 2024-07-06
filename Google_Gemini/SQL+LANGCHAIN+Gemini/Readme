@@ -1,0 +1,7 @@
+I have tried to integrate langchain , gemini and SQL in this project. This is a simple POC project. 
+
+The main objectives are :
+
+1. Learn to use Langchain and Google gemini integration 
+2. Learn to integrate SQL and both of these together 
+3. Use vector search to get relavant prompts and then send it to LLM to generate SQL query. 
