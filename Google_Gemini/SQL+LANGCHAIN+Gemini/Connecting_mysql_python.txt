@@ -1,0 +1,15 @@
+# Creating SQL data base for gen ai thingy on ubuntu.
+
+# installation - $sudo apt install mysql-server
+ 
+ # opening mysql - $  sudo mysql 
+ 
+ # creating user - $ create user 'adi'@'localhost' identified by 'example-password'
+ 
+ # granting access - $ grant all privileges on *.* to 'adi'@'localhost';
+ 
+ 
+ 
+ 
+# https://www.youtube.com/watch?v=EYc9DNYyiW4 - This is the link to youtube video 
+ 
